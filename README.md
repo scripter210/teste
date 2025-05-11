@@ -1,5 +1,4 @@
 --carregar Dflay
-local Fluent = loadstring(game:HttpGet("https://github.com/dawid-scripts/Fluent/releases/latest/download/main.lua"))()
 
 local Window = Fluent:CreateWindow({
     Title = "Dflay.By.Dfuriaz " .. Fluent.Version,
